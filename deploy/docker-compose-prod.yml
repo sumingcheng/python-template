@@ -1,0 +1,9 @@
+services:
+  app:
+    image: python-template:v1.0.0
+    container_name: python-template
+    ports:
+      - "8000:8000"
+    environment:
+      - DJANGO_SETTINGS_MODULE=app.settings.production
+    restart: unless-stopped

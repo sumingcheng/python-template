@@ -1,0 +1,7 @@
+name: minio-upload
+channels:
+  - defaults
+dependencies:
+  - python=3.10.13
+  - fastapi
+  - uvicorn
