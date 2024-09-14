@@ -1,7 +1,18 @@
 name: template
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.10.13
   - fastapi
   - uvicorn
+  - sqlalchemy
+  - pydantic
+  - mysql-connector-python
+  - passlib
+  - python-jose
+  - redis-py
+  - alembic
+  - pytest
+  - pytest-cov
+
