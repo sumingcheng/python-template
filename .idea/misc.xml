@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (fastgpt_plugin_stt)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="minio-upload" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="template" project-jdk-type="Python SDK" />
 </project>
